@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>Genesis.Analytics.Raygun</id>
+    <version>@build.number@</version>
+    <authors>Kent Boogaart</authors>
+    <owners>Kent Boogaart</owners>
+    <licenseUrl>https://github.com/kentcb/Genesis.Analytics/blob/master/LICENSE</licenseUrl>
+    <projectUrl>https://github.com/kentcb/Genesis.Analytics</projectUrl>
+    <iconUrl>https://raw.githubusercontent.com/kentcb/Genesis.Analytics/master/Art/Logo64x64.png</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>
+      Genesis.Analytics.Raygun is a Raygun implementation for Genesis.Analytics.
+    </description>
+    <tags>.NET mono portable pcl ios android xamarin helper raygun</tags>
+    @dependencies@
+    @references@
+  </metadata>
+</package>
